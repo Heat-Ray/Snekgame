@@ -1,5 +1,5 @@
 # Snekgame
-Basic snake game written in C++ using SFML. Can be played on Linux.
+Basic snake game written in C++ using SFML. Can be played on Linux Ubuntu.
 
 Installation :-
 1. Open the linux terminal and move into the Snekgame folder.
